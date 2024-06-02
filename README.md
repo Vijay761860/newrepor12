@@ -1,2 +1,3 @@
 # newrepor12
-this is myb first reopsitory
+this is my first reopsitory
+author is vijay kumar 
